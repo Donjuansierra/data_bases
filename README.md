@@ -1,12 +1,11 @@
 # data_bases
 
-Para visualizar el diagrama de entidad relación llamado "Diagram_ER.drwio":
+Instrucciones para visualizar el diagrama de entidad-relación llamado "Diagram_ER.drwio":
 
-1. Descarga el archivo con el mismo nombre, el cual se encuentra en la carpeta Diagrama_ER.
-2. Ingresa a la siguiente URL https://www.drawio.com/ y pulsa en el boton iniciar o star 
-3. En la nueva ventana seguir la siguiente ruta para abrir el archivo descargado File/Open fom/ Device
-4. Si el paso anterior se realizo correctamente se debe abrir una ventana para seleccionar el archivo descargado
-5. Seleccionar el archivo descargado y hacer clic en seleccionar o abrir 
-6. visualiza el diagrama ER propuesto
-
+1. Descarga el archivo "Diagram_ER.drwio" que se encuentra en la carpeta "Diagrama_ER".
+2. Accede a la siguiente URL: https://www.drawio.com/ e inicia sesión o crea una cuenta.
+3. Una vez dentro de Draw.io, haz clic en "Archiv", "Abrir" y selecciona "Desde el dispositivo".
+4. Selecciona el archivo "Diagram_ER.drwio" que descargaste previamente.
+5. Haz clic en "Seleccionar" o "Abrir" para cargar el diagrama.
+6. ¡Ahora podrás visualizar el diagrama de entidad-relación propuesto!
 
