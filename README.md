@@ -1,5 +1,4 @@
-# data_bases
-
+# Diseño a las bases de datos - Sesión 1
 Instrucciones para visualizar el diagrama de entidad-relación llamado "Diagram_ER.drwio":
 
 1. Descarga el archivo "Diagram_ER.drawio" que se encuentra en la carpeta "Diagrama_ER".
