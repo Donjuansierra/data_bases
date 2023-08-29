@@ -1,0 +1,11 @@
+id,name,brand,category_id,unit_price
+1,Televisor,Sony,1,1000
+2,Laptop,HP,1,800
+3,Camisa,Zara,2,50
+4,Pantalón,Levi's,2,70
+5,Sartén,T-fal,3,30
+6,Toalla,Cannon,3,20
+7,Pelota,Nike,4,15
+8,Raqueta,Wilson,4,50
+9,Muñeca,Barbie,5,25
+10,Carro,Hot Wheels,5,10
