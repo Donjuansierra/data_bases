@@ -40,6 +40,15 @@ Posteriormente, para crear las tablas, siga estos pasos en pgAdmin:
 4. Selecciona el script llamado 'project_postgres.sql'.
 5. Por último, ejecute el script presionando la tecla F5 o haciendo clic en el botón "Ejecutar", lo que finalizará el proceso de creación de las tablas.
 
+## Agregar CONSTRATINS
+
+1. Inicia DBeaver y accede a la base de datos llamada 'project'.
+2. Haz clic derecho en la base de datos y elige la opción 'Editor SQL/Abrir script SQL'.
+3. Esto abrirá una nueva vista; haz clic derecho nuevamente y selecciona 'Archivo'.
+4. Selecciona 'Importar SQL Script' para cargar el archivo 'constraints.sql'.
+5. Para ejecutar el script en su totalidad, utiliza la opción 'Ejecutar SQL script'.
+6. Al hacerlo, se crearán las restricciones necesarias para la base de datos.
+
 ## Cargue de datos 
 
 Accede a DBeaver y localiza las tablas previamente creadas en PostgreSQL. Para llevar a cabo la carga de información, realiza los siguientes pasos:
@@ -53,13 +62,20 @@ Accede a DBeaver y localiza las tablas previamente creadas en PostgreSQL. Para l
 
 Repite estos pasos para cada una de las tablas en las que deseas cargar información.
 
-## Consultas de analitica 
+## Consultas de analitica  basicas y analiticas con JOINS
 
-Para emplear el script con las consultas, sigue estos pasos en DBeaver:
+Instrucciones para ejecutar las consultas en dbeaver
 
-1. Accede a DBeaver y localiza la base de datos 'project'.
-2. Haz clic derecho sobre dicha base de datos y elige la opción 'EDITOR SQL/Abrir script SQL'.
-3. Esto abrirá una nueva vista, en la cual debes hacer clic derecho nuevamente.
-4. Selecciona la opción 'Importar datos' para cargar el script 'consultas_analitica.sql'.
-5. Para ejecutar el script en su totalidad, utiliza la opción 'Ejecutar SQL script' o presiona 'Ctrl+X'.
-6. Al hacer esto, los resultados de la consulta deberían mostrarse de manera correspondiente.
+1. Abre DBeaver y conecta a la base de datos project.
+2. Haz clic derecho en la base de datos y selecciona EDITOR SQL/Abrir script SQL.
+3. En la nueva vista, haz clic derecho y selecciona Archivo.
+4. Selecciona la opción Importar SQL Script y carga el script consultas_analitica.sql.
+5. Para ejecutar el script completo, haz clic en el botón Ejecutar SQL script.
+6. Los resultados de la consulta se mostrarán en la vista.
+
+**Para ejecutar las consultas con JOINS**
+
+Sigue los pasos del 1 al 6, cambiando el archivo a cargar por restricciones_consultas.sql.
+
+
+
